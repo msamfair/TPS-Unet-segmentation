@@ -11,6 +11,19 @@ make_predictions: uses the trained model to predict the outlines of specimens an
 
 transfermodel_utils.WriteMultipletoTPS: writes a TPS file for the segmented outlines of however many specimens
 
+
+Citing
+
+@misc{msamfairGitHub,
+  Author = {Maya Samuels-Fair and Gene Hunt},
+  Title = {TPS Unet Segmentation},
+  Year = {2020},
+  Publisher = {GitHub},
+  Journal = {GitHub repository},
+  Howpublished = {\url{https://github.com/msamfair/TPS-Unet-segmentation}}
+}
+
+
 References
 
 Singhal, P (2019) unet_test.py. https://medium.com/@pallawi.ds/semantic-segmentation-with-u-net-train-and-test-on-your-custom-data-in-keras-39e4f972ec89.
