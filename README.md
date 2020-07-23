@@ -11,6 +11,7 @@ make_predictions: uses the trained model to predict the outlines of specimens an
 
 transfermodel_utils.WriteMultipletoTPS: writes a TPS file for the segmented outlines of however many specimens
 
+utils.R has the exact same functionality as transfermodel_utils.py, plus the option to input JPGs instead of TIFFs
 
 Citing
 
